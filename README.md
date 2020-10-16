@@ -1,1 +1,1 @@
-# Proteus8-MQ-7GASSENSOR
+proyek ini tentang rangkaian sensor gas untuk mendeteksi konsentrasi alkohol. dalam simulasi ini saya menggunakan sensor gas MQ-7 . Sensor gas MQ-7 mendeteksi alkohol dengan konsentrasi yang bervariasi dari 0,05 hingga 10 mg / L. dalam pembuatan projek ini saya menggunakan software proteus 8 profesional dan arduino ide. Untuk file proteus,arduino,dan libraray sensor gas proteus sudah saya upload disini, untuk mempermudah kalian yang ingin belajar dan mencoba membuat rangkaian ini.
